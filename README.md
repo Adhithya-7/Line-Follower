@@ -33,12 +33,6 @@ This project involves the development of an autonomous line follower bot capable
 2. Place the bot on the line or maze to be navigated.
 3. Power on the bot, and it will autonomously follow the line while maintaining stability using PID control.
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-
-
 ## Acknowledgments
 
 - [Arduino](https://www.arduino.cc/) for the development platform.
