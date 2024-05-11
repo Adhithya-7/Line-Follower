@@ -21,8 +21,7 @@ This project involves the development of an autonomous line follower bot capable
 
 ## Installation
 
-1. Clone the repository:
-   git clone https://github.com/your-username/line-follower-bot.git
+1. Clone the repository
 2. Open the project in the Arduino IDE.
 3. Connect the Arduino Nano to your computer.
 4. Upload the code to the Arduino Nano.
